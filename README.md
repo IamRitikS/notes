@@ -1,4 +1,4 @@
-# notes
+# Notes
 This repository contains my public notes on engineering concepts I’ve learned while studying and building software.
 
 These are not tutorials.
